@@ -1,0 +1,25 @@
+segment_sources:
+  PDFCF6B3B:
+    type: origin_type
+    relation: translation
+    language: en
+  PBBB8A87E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c019a6ae6f74497e8e1b5536862a6ae1:
+    PDFCF6B3B: 3ba180c3e43f441f9e8105252dbfbd1a
+    PBBB8A87E: d915e96dfd694e53a2a4c27120e46f6c
+  1cd71117227f46eca05f52d182f4d6f0:
+    PDFCF6B3B: 728ed1b64594445292dafd46a85fdce0
+    PBBB8A87E: 3083412eb0814e508694344a79154978
+  5c6b9de3ec7a4c6283634dc99703129a:
+    PDFCF6B3B: 727ba9532a6943a691c6f7e07ecb7d66
+    PBBB8A87E: de2c98bab43744cd943d23adb22115c2
+  280b1d9c66a247239bd1f60b6b729cce:
+    PDFCF6B3B: c90c462af3544753abc8d498be2e69b7
+    PBBB8A87E: 972a545e15c64289b5a4a2dddbeb6537
+  8324e1bf248342ceaccc38a949a2ae65:
+    PDFCF6B3B: 6fa5b0b76fd94bf4b36dddbddc912d76
+    PBBB8A87E: 1bb1874d93c3433bbdbbe32553684207
